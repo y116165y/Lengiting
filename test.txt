@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
 hello wode
+=======
+hi hi hi
+hello from BA
+>>>>>>> dev1

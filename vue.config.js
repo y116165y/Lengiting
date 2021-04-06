@@ -9,7 +9,8 @@ module.exports = {
 
       // 只修改开发环境配置，打包会出现找不到定义的别名的错误
 		return {
-			"@c": path.resolve(__dirname, "./src/components")
+			"@c": path.resolve(__dirname, "./src/components"),
+			"@css": path.resolve(__dirname, "./src/assets/css")
 		};
     }
   }
