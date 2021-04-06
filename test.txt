@@ -1,6 +1,11 @@
 hello world
+<<<<<<< HEAD
 hello wode
 
 
 
 1111
+=======
+hi hi hi
+hello from BA
+>>>>>>> devNew
