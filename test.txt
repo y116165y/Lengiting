@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello world
 <<<<<<< HEAD
 hello wode
@@ -5,3 +6,6 @@ hello wode
 hi hi hi
 hello from BA
 >>>>>>> dev1
+=======
+hello wode
+>>>>>>> 6fbec1e0e862e0a16864300e1e14ffabfb24caea
